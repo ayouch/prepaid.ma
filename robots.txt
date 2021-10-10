@@ -1,0 +1,8 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /spoptin.html
+Allow: /
+
+Sitemap: https://prepaid.ma/sitemap.xml
